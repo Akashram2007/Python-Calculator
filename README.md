@@ -1,9 +1,9 @@
-# Python Calculator (CLI)
+# 🧮 Python Calculator (CLI)
 
 This is a simple command-line calculator made using Python.  
 It supports basic operations like addition, subtraction, multiplication, and division.
 
-## Features
+## ✨ Features
 - Add two numbers  
 - Subtract two numbers  
 - Multiply two numbers  
